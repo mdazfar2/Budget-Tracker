@@ -30,3 +30,6 @@ Take control of your finances with the Budget Tracker, a user-friendly Python ap
 
 # Acknowledgements
 The Personal Budget Tracker is inspired by the need for effective and simple financial management tools. We thank the open-source community for its contributions to similar projects that have paved the way for this application.
+
+🌐 **Connect with Me**
+- [LinkedIn](www.linkedin.com/in/md-azfar-alam)
